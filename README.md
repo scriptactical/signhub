@@ -61,6 +61,9 @@ With an intuitive interface, users can upload documents, define approval workflo
 ### Digital Signature Example  
 ![Digital Signature](assets/images/digital-signature.png)  
 
+### Incoming Requests  
+![Digital Signature](assets/images/request-inbox.png)  
+
 ---
 
 ## Benefits  
